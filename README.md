@@ -2,6 +2,14 @@
 
 ### I'm a brazilian programmer who loves native mobile development.
 
+<div style="display: inline_block">
+  <img align="center" alt="Android icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+  <img align="center" alt="iOS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+  <img align="center" alt="Kotlin icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Swift icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+  <img align="center" alt="Java icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
+
 ##
 
 ### About me
