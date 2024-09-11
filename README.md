@@ -1,4 +1,4 @@
-# Hello! My name is Rafael Estrela.
+# Hello! My name is Rafael Estrela
 
 ### I'm a brazilian programmer who loves native mobile development.
 
