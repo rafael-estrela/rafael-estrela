@@ -31,9 +31,9 @@ I'm a 27 years-old software developer and I have been working with Android devel
 ### What makes me different from everyone else
 
 - My communication skills: I am VERY communicative, and I believe it's crucial to maintain communication and collaboration between teammates, as well as different teams and squads and chapter members
-- My problem solving skills: I am an outstanding problem solver (not my words), which means I take issues and bugs seriously and I will investigate and debug it like no one else
+- My problem solving skills: I am an outstanding problem solver (not my words), which means I take issues and bugs seriously and I will investigate and debug it in a unique way, backed up by my technical skillset
 - My collaborative skills: I am a teamworker, and I believe no one does it on their own. I enjoy working with multiple people with the most diverse backgrounds and points of view, and I feel fulfilled when I have the opportunity to help a fellow developer to grow, so I really like code reviews and pair programming sessions
-- My leadership skills: I am a natural leader, which means it will be common for me to take action in order to solve issues and help out my team
+- My leadership skills: I am a natural leader, and it will be common for me to take action in order to solve issues and help out my team
 
 ### Besides all that
 
