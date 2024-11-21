@@ -26,7 +26,8 @@ I'm a 27 years-old software developer and I have been working with Android devel
 - I have worked with several agile environments, such as Scrum, Kanban and a few custom agile methodologies based on what works best for each company
 - Automation, CI and pipelines are common in my daily routine, and I have experience working with Azure DevOps, Jenkins and Gitlab CI, as well as setting up automation processes and pipeline steps
 - Testing is a must (and a personal favorite), so I'm well experienced with unit testing, junit, mockito, mockK and testing theory in general - seriously, I've done a few testing workshops and I'd like to do some more
-- I'm eager to learning, so I'm always trying to keep up with the recent techs from Android and iOS environments. I'm looking forward to learn and work with Compose, SwiftUI and Combine
+- I have experience working with multiple UI implementation methods and paradigms, such as XML and Compose (Android), and Storyboard, XIB, ViewCode and SwiftUI (iOS)
+- I'm eager to learning, so I'm always trying to keep up with the recent techs from Android and iOS environments
 
 ### What makes me different from everyone else
 
