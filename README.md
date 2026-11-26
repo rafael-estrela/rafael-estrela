@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm a 27 years-old software developer and I have been working with Android development since 2016, and with iOS development since 2018. I have a vast experience in native applications, being a part of multiple apps across my career, from project creation to store deploy.
+I'm a 30 years-old software developer and I have been working with Android development since 2016, and with iOS development since 2018. I have a vast experience in native applications, being a part of multiple apps across my career, from project creation to store deploy.
 
 ### My technical skillset
 
